@@ -1,0 +1,15 @@
+# Application
+fastapi
+uvicorn
+python-multipart
+Pillow
+tensorflow
+numpy
+streamlit
+requests
+
+# Training notebook
+tensorflow-datasets
+matplotlib
+notebook
+ipykernel
